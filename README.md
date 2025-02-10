@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack (MongoDB, Express.js, React, Node.js) Frontend frameworks like Tailwind CSS Deployment with Render & Cron Jobs Looking into Docker & Kubernetes**
 
-- 📫 How to reach me **ezgilena00@gmail.com**
+- 📫 How to reach me **ezgilena.contact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
